@@ -8,3 +8,6 @@ prueba de envio de codigo y de screenshot
 
 
 2- Hacer un diccionario de traducción español-inglés, se van a introducir las palabras en español e inglés separadas por dos puntos, y cada par <palabra>:<traducción> separados por comas. El programa debe crear un diccionario con las palabras y sus traducciones. Después pedirá una frase en español y utilizará el diccionario para traducirla palabra a palabra. Si una palabra no está en el diccionario debe dejarla sin traducir.
+![image](https://github.com/user-attachments/assets/b829776b-d10d-47d4-8ee9-be5453b9d16d)
+![image](https://github.com/user-attachments/assets/eb1de04a-431c-499a-803f-d470f241c6c1)
+![image](https://github.com/user-attachments/assets/1c1b150e-6107-46fa-a99d-f0329ac85ad5)
